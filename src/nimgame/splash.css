@@ -1,0 +1,21 @@
+.text-field {
+ -fx-background-radius: 30;
+ -fx-background-insets: 0;
+ -fx-font-size: 22px;
+ -fx-border-width: 2px;
+ -fx-border-radius: 30;
+ -fx-border-color: lightgray;
+ -fx-aligment: center;
+}
+
+.label {
+ -fx-font-weight: bold;
+ -fx-font-size: 32px;
+}
+
+.button {
+ -fx-background-radius: 30;
+ -fx-background-insets: 0;
+ -fx-text-fill: white;
+ -fx-font-size: 22px;
+}
